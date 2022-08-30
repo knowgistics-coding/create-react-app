@@ -1,0 +1,3 @@
+[submodule "packages/cra-template-mek-typescript/template/src/components/core-sub"]
+	path = packages/cra-template-mek-typescript/template/src/components/core-sub
+	url = https://github.com/knowgistics-coding/core-sub.git
