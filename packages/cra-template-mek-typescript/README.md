@@ -14,17 +14,6 @@ npx create-react-app my-app --template @knowgistics/cra-template-mek
 yarn create react-app my-app --template @knowgistics/cra-template-mek
 ```
 
-Copy .npmrc to root folder
-
-```sh
-yarn install @fortawesome/pro-duotone-svg-icons@6.1.1 @fortawesome/pro-regular-svg-icons@6.1.1 react-sortable-hoc@2.0.0
-
-git submodule add https://github.com/knowgistics-coding/core-sub.git ./src/components/core-sub
-
-git submodule update --init --recursive
-```
-
-
 
 For more information, please refer to:
 
